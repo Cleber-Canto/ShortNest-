@@ -113,7 +113,7 @@ Antes de rodar o projeto, certifique-se de ter instalado:
 
 ### 1️⃣ Clone o repositório  
 ```bash
-git clone <repository-url>
+git clone git@github.com:Cleber-Canto/ShortNest-.git
 cd url-shortener
 ```
 
