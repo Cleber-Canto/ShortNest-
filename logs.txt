@@ -1,0 +1,26 @@
+
+> system@0.0.1 start
+> nest start
+
+[32m[Nest] 2550029  - [39m13/05/2025, 19:40:08 [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 2550029  - [39m13/05/2025, 19:40:08 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mPrismaModule dependencies initialized[39m[38;5;3m +20ms[39m
+[32m[Nest] 2550029  - [39m13/05/2025, 19:40:08 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 2550029  - [39m13/05/2025, 19:40:08 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 2550029  - [39m13/05/2025, 19:40:08 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mUrlModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 2550029  - [39m13/05/2025, 19:40:08 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 2550029  - [39m13/05/2025, 19:40:08 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAuthModule dependencies initialized[39m[38;5;3m +0ms[39m
+✅ Conectado ao banco de dados PostgreSQL!
+[32m[Nest] 2550029  - [39m13/05/2025, 19:40:09 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAppController {/}:[39m[38;5;3m +181ms[39m
+[32m[Nest] 2550029  - [39m13/05/2025, 19:40:09 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/, GET} route[39m[38;5;3m +4ms[39m
+[32m[Nest] 2550029  - [39m13/05/2025, 19:40:09 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mUrlController {/url}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 2550029  - [39m13/05/2025, 19:40:09 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/url, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 2550029  - [39m13/05/2025, 19:40:09 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/url/list, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 2550029  - [39m13/05/2025, 19:40:09 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/url, PUT} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 2550029  - [39m13/05/2025, 19:40:09 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/url, DELETE} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 2550029  - [39m13/05/2025, 19:40:09 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/url/:shortUrl, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 2550029  - [39m13/05/2025, 19:40:09 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAuthController {/auth}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 2550029  - [39m13/05/2025, 19:40:09 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/register, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 2550029  - [39m13/05/2025, 19:40:09 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/login, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 2550029  - [39m13/05/2025, 19:40:09 [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +164ms[39m
+🚀 Servidor rodando na porta 3009. Acesse: http://localhost:3009
+📄 Documentação Swagger disponível em: http://localhost:3009/api-docs
